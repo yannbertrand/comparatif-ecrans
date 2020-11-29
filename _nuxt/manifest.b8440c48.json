@@ -3,7 +3,7 @@
   "short_name": "comparatif-ecrans",
   "description": "## Build Setup",
   "icons": [],
-  "start_url": "/?standalone=true",
+  "start_url": "/comparatif-ecrans/?standalone=true",
   "display": "standalone",
   "background_color": "#ffffff",
   "lang": "en"
