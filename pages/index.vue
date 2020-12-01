@@ -7,7 +7,6 @@
           <option value="" />
           <option value="IPS">IPS</option>
           <option value="VA">VA</option>
-          <option value="OLED">OLED</option>
         </select>
       </label>
       <label id="taille" class="flex-auto">
@@ -17,6 +16,7 @@
           <option value="24">24</option>
           <option value="27">27</option>
           <option value="32">32</option>
+          <option value="34">34</option>
         </select>
         "
       </label>
@@ -25,9 +25,9 @@
         <select v-model="format" @change="$fetch">
           <option value="" />
           <option value="16/9">16/9</option>
-          <option value="16/10">16/10</option>
           <option value="21/9">21/9</option>
           <option value="32/9">32/9</option>
+          <option value="16/10">16/10</option>
         </select>
       </label>
       <label id="resolution" class="flex-auto">
