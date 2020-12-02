@@ -10,6 +10,7 @@ resolution: 110
 gamut: sRGB
 contraste: 
 luminosite: 300
+rafraichissement: 60
 thunderbolt3: 60
 plus: [HDR, PiP]
 prix: 1200

@@ -10,6 +10,7 @@ resolution: 163
 gamut: DCI-P3
 contraste: 1200
 luminosite: 450
+rafraichissement: 60
 thunderbolt3: 85
 plus: [HDR]
 prix: 1200

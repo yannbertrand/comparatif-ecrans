@@ -10,6 +10,7 @@ resolution: 110
 gamut: sRGB
 contraste: 3000
 luminosite: 300
+rafraichissement: 60
 plus: [PiP]
 prix: 549
 ---
